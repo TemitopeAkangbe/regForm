@@ -18,6 +18,7 @@
 .container {
     padding: 16px;
     box-sizing: border-box;
+    position: relative;
 }
 
 input[type="text"], 
